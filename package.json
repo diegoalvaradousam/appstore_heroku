@@ -14,12 +14,13 @@
     "type": "git",
     "url": "git+https://github.com/diegoalvaradousam/appstore_heroku.git"
   },
-  
+
   "author": "diego jose",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/diegoalvaradousam/appstore_heroku/issues"
   },
+  
   "homepage": "https://github.com/diegoalvaradousam/appstore_heroku#readme",
   "dependencies": {
     "express": "^4.17.1"
