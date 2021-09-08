@@ -5,7 +5,7 @@
   "main": "index.js",
   "engines": {
     "start": "node index.js",
-    "node": "10.16.3"
+    "node": "14.17.5"
   },
   "scripts": {
     "start": "node index.js"
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/diegoalvaradousam/appstore_heroku/issues"
   },
-  
+
   "homepage": "https://github.com/diegoalvaradousam/appstore_heroku#readme",
   "dependencies": {
     "express": "^4.17.1"
